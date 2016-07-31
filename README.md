@@ -10,8 +10,8 @@ Using Rails 5 API
 ### Auth
 JWT
 
-# Testing
+### Testing
 RSpec/Guard/Pry
 
-# CI
+### CI
 TravisCI
